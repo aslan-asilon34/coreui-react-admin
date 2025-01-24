@@ -1,5 +1,12 @@
 # CoreUI Free React Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%React%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
+
+![Image](https://github.com/user-attachments/assets/6cdec73a-d642-48ab-82c3-27af91decd25)
+![Image](https://github.com/user-attachments/assets/aa0b8341-7a47-444b-b6f5-7e817bee5dcf)
+![Image](https://github.com/user-attachments/assets/148f46e5-8170-4d19-9429-34b360bffd29)
+![Image](https://github.com/user-attachments/assets/e3f43b8c-1c79-4519-9aaa-17b1fd5b69eb)
+![Image](https://github.com/user-attachments/assets/bc3f8660-ad89-40db-9de4-b7ca5938619a)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
